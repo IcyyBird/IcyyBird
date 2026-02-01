@@ -12,4 +12,4 @@ Hey, I’m IcyyBird.<br><br>I’m a 13 year old developer and I've spent the las
 ---
 [![](https://visitcount.itsvg.in/api?id=IcyyBird&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPR( https://gprm.itsvg.in ) -->
